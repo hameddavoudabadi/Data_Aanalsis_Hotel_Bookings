@@ -1,6 +1,5 @@
 Here is a line
-Here is not a line too
-
+Here is not a line two
 Here is a line three
 Candy is good
 Godis är gott
